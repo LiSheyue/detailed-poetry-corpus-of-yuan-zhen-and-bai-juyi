@@ -8,11 +8,13 @@
 
 - Number of metadata dimensions: 14  
 
----
 
 ## Format
 
-The corpus is stored in JSON format. A sample entry is shown below:
+The corpus is stored in **JSON** format, where each **poem is represented as a dictionary (object)**.  
+Each key corresponds to a specific metadata field, and the poem text is stored as a list of strings in the `"正文"` field.
+
+A sample excerpt is shown below:
 
 ```json
 {
@@ -37,7 +39,6 @@ The corpus is stored in JSON format. A sample entry is shown below:
 }
 ```
 
----
 
 ## Resources
 
@@ -53,13 +54,11 @@ The corpus is stored in JSON format. A sample entry is shown below:
     *Bai Juyi Ji*. Edited by Zhonghua Book Company, proofread by Gu Xuejie. Beijing: Zhonghua Book Company, 1979.  
     *Bai Juyi Shi Ji Jiao Zhu*. Annotated by Xie Siwei. Beijing: Zhonghua Book Company, 2006.
 
----
 
 ## Citation
 
 If you use this dataset in your research, please cite this GitHub repository.
 
----
 
 ## Contributors
 
@@ -74,14 +73,12 @@ If you use this dataset in your research, please cite this GitHub repository.
 
 Affiliation: Beijing Foreign Studies University
 
----
 
 ## License
 
 This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ---
-
 
 # 元稹与白居易诗歌语料库
 
@@ -93,11 +90,13 @@ This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlik
 
 - 元数据维度：14
 
----
 
 ## 数据格式
 
-本语料库以 JSON 格式存储。示例条目如下：
+本语料库以 **JSON 格式** 存储。  
+每首诗对应一个 **字典（dictionary）对象**，每个字段为该诗歌的一项元信息，正文则以字符串列表的形式存储在 `"正文"` 字段中。
+
+以下为示例片段：
 
 ```json
 {
@@ -122,7 +121,6 @@ This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlik
 }
 ```
 
----
 
 ## 数据来源
 
@@ -138,13 +136,11 @@ This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlik
     中华书局编；顾学颉校. 白居易集[M]. 北京：中华书局, 1979. 
     谢思炜撰. 白居易诗集校注[M]. 北京：中华书局, 2006.07.
 
----
 
 ## 引用方式
 
 若您在研究中使用本数据集，请注明本项目的 GitHub 仓库地址。
 
----
 
 ## 项目成员
 
@@ -159,6 +155,6 @@ This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlik
 
 单位：北京外国语大学
 
----
+
 ## 许可协议
-本项目以 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 协议发布。如需查看该许可，请访问 https://creativecommons.org/licenses/by-nc-sa/4.0/。
+本项目以 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 协议发布。如需查看该许可，请访问 https://creativecommons.org/licenses/by-nc-sa/4.0/
