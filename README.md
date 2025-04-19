@@ -57,7 +57,7 @@ A sample excerpt is shown below:
 
 ## Citation
 
-If you use this dataset in your research, please cite this GitHub repository.
+If you use this dataset in your research, please cite this GitHub repository https://github.com/LiSheyue/detailed-poetry-corpus-of-yuan-zhen-and-bai-juyi
 
 
 ## Contributors
@@ -71,14 +71,16 @@ If you use this dataset in your research, please cite this GitHub repository.
   Peilin Li  
   Xinyi Zhang  
 
-Affiliation: Beijing Foreign Studies University
+Beijing Foreign Studies University
 
 
 ## License
 
 This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
+
 ---
+
 
 # 元稹与白居易诗歌语料库
 
@@ -139,7 +141,7 @@ This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlik
 
 ## 引用方式
 
-若您在研究中使用本数据集，请注明本项目的 GitHub 仓库地址。
+若您在研究中使用本数据集，请注明本项目的 GitHub 仓库地址 https://github.com/LiSheyue/detailed-poetry-corpus-of-yuan-zhen-and-bai-juyi
 
 
 ## 项目成员
@@ -153,7 +155,7 @@ This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlik
   李沛霖  
   张鑫怡  
 
-单位：北京外国语大学
+北京外国语大学
 
 
 ## 许可协议
