@@ -78,9 +78,7 @@ Affiliation: Beijing Foreign Studies University
 
 ## License
 
-This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
-You are free to use, share, and adapt the material with proper attribution.  
-License details: https://creativecommons.org/licenses/by/4.0/
+This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ---
 
@@ -163,7 +161,4 @@ License details: https://creativecommons.org/licenses/by/4.0/
 
 ---
 ## 许可协议
-
-本项目以 Creative Commons Attribution 4.0 International License（CC BY 4.0）协议发布。  
-您可以在注明来源的前提下，自由使用、共享和修改本数据集。  
-许可详情：https://creativecommons.org/licenses/by/4.0/
+本项目以 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 协议发布。如需查看该许可，请访问 https://creativecommons.org/licenses/by-nc-sa/4.0/。
