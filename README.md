@@ -82,7 +82,7 @@ This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlik
 ---
 
 
-# 元稹与白居易诗歌语料库
+# 元稹与白居易诗歌详注语料库
 
 ## 数据统计
 
